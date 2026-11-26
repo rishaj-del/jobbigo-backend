@@ -17,7 +17,7 @@ const path = require('path');
 const DATA_DIR = path.join(__dirname, 'data');
 const STORE_PATH = path.join(DATA_DIR, 'jobs.json');
 const SEED_PATH = path.join(DATA_DIR, 'handpicked-seed.json');
-const MAX_JOBS = 1200; // raised 2026-11-20 so curated handpicked jobs are not trimmed out the same day
+const MAX_JOBS = 1200; // raised 2026-11-26 from 800 so the 49 new LinkedIn leads (total ~857) are not trimmed out by the cap
 const MAX_AGE_MS = 3 * 24 * 60 * 60 * 1000; // live feed: max 3 days old
 
 function ensureDir() {
@@ -98,10 +98,15 @@ function upsert(incoming) {
   const sorted = [...byId.values()]
     .sort((a, b) => new Date(effectiveDate(b)) - new Date(effectiveDate(a)));
   const cutoff = Date.now() - MAX_AGE_MS;
+  // Freshness is judged by firstSeenAt (when the job entered OUR feed), not by
+  // postedAt: LinkedIn leads carry their real post date in postedAt, and a
+  // Nov 7 post added today must live 3 days from today, not die at once.
+  // (2026-11-26: users saw 1-day-old LinkedIn posts labelled "30 MIN AGO"
+  // because the card used firstSeenAt while postedAt was null.)
   const jobs = [
     ...sorted.filter((j) => j.handpicked),
     ...sorted
-      .filter((j) => !j.handpicked && new Date(effectiveDate(j)).getTime() >= cutoff)
+      .filter((j) => !j.handpicked && new Date(j.firstSeenAt || effectiveDate(j)).getTime() >= cutoff)
       .slice(0, MAX_JOBS),
   ];
   writeStore({ jobs, updatedAt: now });
