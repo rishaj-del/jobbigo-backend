@@ -1,6 +1,94 @@
 {
   "jobs": [
     {
+      "id": "gb-linkedin-760724326ed778f18f9e",
+      "title": "UI/UX Designer",
+      "company": "Thinkwik",
+      "location": "Ahmedabad, Gujarat",
+      "remote": false,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/imnishatiwari_hiring-uiuxdesigner-ahmedabadjobs-activity-7528077911430586369-RZJb",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "UI/UX Designer at Thinkwik. Ahmedabad, Gujarat. Apply via Google Form (link in the post). Posted on LinkedIn Nov 21, 2026. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:56:40.647Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-21b19b0d2f2ef42fdd28",
+      "title": "UI/UX Designer",
+      "company": "AGL - Hakuhodo",
+      "location": "Gurugram (work from office)",
+      "remote": false,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/aarti-rana-883339225_hiring-uiuxdesigner-uidesigner-activity-7530530435769008128-p-kx",
+      "postedAt": null,
+      "contact": {
+        "email": "aarti.rana@adglobal360.com",
+        "phone": null
+      },
+      "description": "UI/UX Designer at AGL - Hakuhodo. Gurugram (work from office), 4+ yrs experience, 1 opening. Posted on LinkedIn Nov 23, 2026. Email published in the post: aarti.rana@adglobal360.com. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:56:40.647Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-3834fa2b31578675fd4c",
+      "title": "Senior Graphic Designer",
+      "company": "Keeper Security, Inc.",
+      "location": "Remote (US select locations) / Chicago hybrid",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/jobs/view/senior-graphic-designer-at-keeper-security-inc-4475262452",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "Senior Graphic Designer at Keeper Security, Inc. Remote (US select locations) / Chicago hybrid. Posted on LinkedIn Nov 22, 2026. Apply via the LinkedIn job page.",
+      "firstSeenAt": "2026-11-26T06:56:40.647Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-3f2593dbf622e145da83",
+      "title": "Brand & Communication Designer",
+      "company": "Juice",
+      "location": "Orlando, US or remote (4h overlap with Orlando)",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/juiceagency_hiring-designjobs-branddesign-activity-7531029758105571328-qrSb",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "Brand & Communication Designer at Juice. Orlando, US or remote (4h overlap with Orlando). Posted on LinkedIn Nov 24, 2026. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:56:40.647Z",
+      "handpicked": false
+    },
+    {
       "id": "curated-harmony-ai-animation-video-creator-pixar",
       "title": "AI Animation Video Creator - 3D Cartoon / Pixar-Style Social Media Videos",
       "company": "Harmony",
@@ -175,6 +263,226 @@
       "postedAt": "2026-10-26",
       "description": "Hyper-realistic AI human-avatar product videos (Amazon + brand marketing), lip-sync + consistent avatars; portfolio of own avatar videos required, paid practical assessment. Remote full-time, India/Philippines. Listed via F5 Global Talent.",
       "firstSeenAt": "2026-11-20T10:08:14.368Z"
+    },
+    {
+      "id": "gb-linkedin-c7a1ef57d30e98dfa628",
+      "title": "3D Animator (Mid/Senior)",
+      "company": "Evgeny Putilin / RPG project",
+      "location": "Remote",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/eputilin_were-looking-for-a-3d-animator-midsenior-activity-7531047275805011968-2HwN",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "3D Animator (Mid/Senior) for an RPG project. Starts Dec 1, 3 months, Maya + Unity, cinematic cutscenes. Posted on LinkedIn Nov 24, 2026. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-cd9c0333ad3b79abc0df",
+      "title": "UGC Video Creators",
+      "company": "Avyaan Enterprises",
+      "location": "India",
+      "remote": true,
+      "type": "Freelance",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/avyaanenterprises_ugccreator-ugcindia-contentcreators-activity-7531041675222200320-Tv4O",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "UGC Video Creators for Meta + Amazon ads. India creators. Apply via DM/comment on the LinkedIn post with portfolio + pricing. Posted on LinkedIn Nov 24, 2026.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-3ed164f4ee57de8c7a5f",
+      "title": "UGC Creators (paid)",
+      "company": "Rebecca Nolan",
+      "location": "Remote",
+      "remote": true,
+      "type": "Freelance",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/rebeccannolan_ugc-ugccreator-brandcollaborations-activity-7531001222602973184-wBS8",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "Paid UGC Creators — beauty / lifestyle / fashion / food / travel / wellness / tech. Portfolio in comments on the LinkedIn post. Posted on LinkedIn Nov 24, 2026.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-1fd4bdeeaa95ab2804f3",
+      "title": "Freelance Graphic Designer",
+      "company": "Bellavita (via Himanshu Negi)",
+      "location": "Remote",
+      "remote": true,
+      "type": "Freelance",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/himanshu-negi-81bb28190_graphicdesigner-hiring-freelance-activity-7530573635623813121-aB6S",
+      "postedAt": null,
+      "contact": {
+        "email": "himanshu.negi@oneguardian.in",
+        "phone": null
+      },
+      "description": "Freelance Graphic Designer, beauty/skincare, Meta ad creatives, 2-3 yrs. Posted on LinkedIn Nov 23, 2026. Email published in the post: himanshu.negi@oneguardian.in",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-10a5971316d55b0f6d30",
+      "title": "AI Video Director / Editor / Film-maker (multiple hires)",
+      "company": "Opus Recruitment Solutions",
+      "location": "Remote (worldwide)",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/jobs/view/multiple-hires%21-fully-remote-worldwide-ai-video-director-editor-film-maker-cinematic-mini-series-ai-driven-story-telling-fast-growing-%2B-profitable-ai-scaleup-at-opus-recruitment-solutions-4488388125",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "AI Video Director / Editor / Film-maker, multiple hires. Fully remote worldwide, cinematic mini-series, AI scaleup. Posted on LinkedIn Nov 21, 2026 (reposted in the last 2 days). Apply via the LinkedIn job page.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-47f32319e2842f43e652",
+      "title": "Senior Graphic Designer",
+      "company": "American Cancer Society (via Mike Hanley)",
+      "location": "Remote",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": 65000,
+      "salaryMax": 70000,
+      "currency": "USD",
+      "salaryPeriod": "yr",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/mike-hanley_art-directors-designers-im-hiring-activity-7529895114920337408-fPI1",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "Senior Graphic Designer, 100% remote, $65K-$70K, 5-7 yrs. Posted on LinkedIn Nov 21, 2026. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-e525f9e029693e077cca",
+      "title": "AI Video Generator / AI Video Creator",
+      "company": "Faryal Saeed",
+      "location": "Remote",
+      "remote": true,
+      "type": "Freelance",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/faryalemailmarketingspecalist_hiring-aivideocreator-aigeneratedvideos-activity-7530662023609892864-C76Z",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "AI Video Generator / AI Video Creator. Posted on LinkedIn Nov 23, 2026. Apply via the LinkedIn post.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-48d96592a1bdb7236b07",
+      "title": "Video Editor",
+      "company": "Aurella Belle",
+      "location": "Vrindavan, UP",
+      "remote": false,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/anjali-watts-148b411aa_hiring-videoeditor-aurellabelle-activity-7530960656771039232--E_k",
+      "postedAt": null,
+      "contact": {
+        "email": "info@aurellabelle.com",
+        "phone": null
+      },
+      "description": "Video Editor, on-site in Vrindavan, UP. Posted on LinkedIn Nov 24, 2026. Email published in the post: info@aurellabelle.com",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-b2d2a3aba18f33561fcb",
+      "title": "Content Writer",
+      "company": "AdMedia (via Aneri Thakkar)",
+      "location": "Remote, India",
+      "remote": true,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/posts/aneri-thakkar-177b57281_hiring-contentwriter-contentwriting-activity-7530844100883988481-LrTp",
+      "postedAt": null,
+      "contact": {
+        "email": "aneri.thakkar@admedia.com",
+        "phone": null
+      },
+      "description": "Content Writer, remote, India. Posted on LinkedIn Nov 24, 2026. Email published in the post: aneri.thakkar@admedia.com",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
+    },
+    {
+      "id": "gb-linkedin-a05758c48d51b63c19aa",
+      "title": "Animator",
+      "company": "Light & Wonder",
+      "location": "Las Vegas, NV",
+      "remote": false,
+      "type": "Full-time",
+      "salaryMin": null,
+      "salaryMax": null,
+      "currency": "USD",
+      "salaryPeriod": "mo",
+      "source": "linkedin",
+      "sourceUrl": "https://www.linkedin.com/jobs/view/animator-at-light-wonder-4478742512",
+      "postedAt": null,
+      "contact": {
+        "email": null,
+        "phone": null
+      },
+      "description": "Animator, full-time, on-site in Las Vegas, NV. Posted on LinkedIn Nov 24, 2026. Apply via the LinkedIn job page.",
+      "firstSeenAt": "2026-11-26T06:38:10.718Z",
+      "handpicked": false
     },
     {
       "id": "wwr-6sense-head-of-technology-data-partnerships",
@@ -8384,7 +8692,7 @@
         "email": null,
         "phone": null
       },
-      "description": "Möchtest du mit Erfahrung im Modern Workplace Engineering etwas bewirken und dich sowie das Team weiterbringen? Bist du top motiviert und freust dich auf spannende Projekte? Dann bist du bei uns richtig! Das erwartet dich: Als Professional System Engineer stehst du an der Front beim Kunden, wenn es um die Implementierung oder Migration von Modern Workplace geht Du unterstützt unsere Kunden im Betrieb und Weiterentwicklung ihrer Modern Workplace Umgebungen Weiter unterstützt du mit deinem breiten Basiswissen im M365 Cloud Bereich Umsetzen von Modern Workplace-Konzepten inkl. GPO-Strategie Erheben, Dokumentieren und Einführen von neuen Modern Workplace Features Unterstützung bei betrieblichen Problemen im Rahmen des 3rd Level Supports Gelegentlicher Pikettdienst Das bringst du mit: Praxiserfahrung im Modern Workplace-Bereich in mittelgrossen bis grösseren IT-Umgebungen, idealerweise bei einem IT-Dienstleister Du bist gerne in direktem Kundenkontakt, auch vor Ort und kannst klare und adressatengerechte Kommunikation zu technischen Konzepten und Lösungen liefern Hohe Dienstleistungs- und lösungsorientierte sowie selbständige Arbeitsweise bringst du auch mit Du bist interessiert am gesamten M365 Kosmos und willst dich darin auch weiterbilden Gute Kenntnisse im Modern Workplace Umfeld insbesondere im Bereich Intune und Apps for Enterprise Grundkenntnisse von SCCM / MECM runden dein Profil ab Du hast gute analytische Fähigkeiten zur Identifizierung und Behebung von technischen Problemen Hervorragende Deutsch- und gute Englischkenntnisse sind ein Muss Find Jobs in Switzerland on Arbeitnow",
+      "description": "Möchtest du mit Erfahrung im Modern Workplace Engineering etwas bewirken und dich sowie das Team weiterbringen? Bist du top motiviert und freust dich auf spannende Projekte? Dann bist du bei uns richtig! Das erwartet dich: Als Professional System Engineer stehst du an der Front beim Kunden, wenn es um die Implementierung oder Migration von Modern Workplace geht Du unterstützt unsere Kunden im Betrieb und Weiterentwicklung ihrer Modern Workplace Umgebungen Weiter unterstützt du mit deinem breiten Basiswissen im M365 Cloud Bereich Umsetzen von Modern Workplace-Konzepten inkl. GPO-Strategie Erheben, Dokumentieren und Einführen von neuen Modern Workplace Features Unterstützung bei betrieblichen Problemen im Rahmen des 3rd Level Supports Gelegentlicher Pikettdienst Das bringst du mit: Praxiserfahrung im Modern Workplace-Bereich in mittelgrossen bis grösseren IT-Umgebungen, idealerweise bei einem IT-Dienstleister Du bist gerne in direktem Kundenkontakt, auch vor Ort und kannst klare und adressatengerechte Kommunikation zu technischen Konzepten und Lösungen liefern Hohe Dienstleistungs- und lösungsorientierte sowie selbständige Arbeitsweise bringst du auch mit Du bist interessiert am gesamten M365 Kosmos und willst dich darin auch weiterbilden Gute Kenntnisse im Modern Workplace Umfeld insbesondere im Bereich Intune und Apps for Enterprise Grundkenntnisse von SCCM / MECM runden dein Profil ab Du hast gute analytische Fähigkeiten zur Identifizierung und Behebung von technischen Problemen Hervorragende Deutsch- und gute Englischkenntnisse sind ein Muss Find more English Speaking Jobs in Switzerland on Arbeitnow",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -8405,7 +8713,7 @@
         "email": null,
         "phone": null
       },
-      "description": "Möchtest du mit deiner langjährigen und vertieften Erfahrung im Modern Workplace Engineering etwas bewirken und dich sowie das Team weiterbringen? Bist du top motiviert und freust dich auf spannende Projekte? Dann bist du bei uns richtig! Das erwartet dich: Als Senior System Engineer stehst du an vorderster Front beim Kunden, wenn es um die Konzeption, das Design und die Implementierung/Migration von Modern Workplace geht Du unterstützt unsere Kunden mit umfassenden Informationen und Beratung zu neuen Technologien und Systeme im Modern Workplace Segment Du übernimmst den Fachlead für Modern Workplace im Professional Services und bist die Ansprechperson für dieses Thema Mit hoher Eigenverantworung und selbständig Entwickelst du und setzt Workplace Infrastrukturen um, sowie deren Management Umgebungen Erarbeiten und Umsetzen von Modern Workplace-Konzepten inkl. GPO-Strategie Erheben, Dokumentieren und Einführen von neuen Modern Workplace Features Unterstützung bei betrieblichen Problemen im Rahmen des 3rd Level Supports Gelegentlicher Pikettdienst Das bringst du mit: Mehrjährige Praxiserfahrung im Modern Workplace-Bereich in mittelgrossen bis grösseren IT-Umgebungen, idealerweise bei einem IT-Dienstleister Du verfügst über eine höhere Berufsbildung im Bereich (Wirtschafts-)Informatik (FH, HF) mit Berufserfahrung Du bist gerne in direktem Kundenkontakt, auch vor Ort und hast ein Flair für das Beraten und Führen unseren Kunden Hohe Dienstleistungs- und lösungsorientierte sowie selbständige Arbeitsweise bringst du auch mit Du hast ausgezeichnete Kenntnisse im M365 Modern Workplace und denkst die Architektur End-to-End Workplace Security ist für dich selbstverständlich Ein breites Fachwissen im M365 Cloud Bereich sowie Erfahrung im MDM Bereich runden dein Profil ab Du hast hervorragende analytische Fähigkeiten, gehst strukturiert vor zur Identifizierung und Behebung von technischen Problemen Hervorragendes Deutsch und gute Englischkenntnisse sind ein Muss Find more Englis",
+      "description": "Möchtest du mit deiner langjährigen und vertieften Erfahrung im Modern Workplace Engineering etwas bewirken und dich sowie das Team weiterbringen? Bist du top motiviert und freust dich auf spannende Projekte? Dann bist du bei uns richtig! Das erwartet dich: Als Senior System Engineer stehst du an vorderster Front beim Kunden, wenn es um die Konzeption, das Design und die Implementierung/Migration von Modern Workplace geht Du unterstützt unsere Kunden mit umfassenden Informationen und Beratung zu neuen Technologien und Systeme im Modern Workplace Segment Du übernimmst den Fachlead für Modern Workplace im Professional Services und bist die Ansprechperson für dieses Thema Mit hoher Eigenverantworung und selbständig Entwickelst du und setzt Workplace Infrastrukturen um, sowie deren Management Umgebungen Erarbeiten und Umsetzen von Modern Workplace-Konzepten inkl. GPO-Strategie Erheben, Dokumentieren und Einführen von neuen Modern Workplace Features Unterstützung bei betrieblichen Problemen im Rahmen des 3rd Level Supports Gelegentlicher Pikettdienst Das bringst du mit: Mehrjährige Praxiserfahrung im Modern Workplace-Bereich in mittelgrossen bis grösseren IT-Umgebungen, idealerweise bei einem IT-Dienstleister Du verfügst über eine höhere Berufsbildung im Bereich (Wirtschafts-)Informatik (FH, HF) mit Berufserfahrung Du bist gerne in direktem Kundenkontakt, auch vor Ort und hast ein Flair für das Beraten und Führen unseren Kunden Hohe Dienstleistungs- und lösungsorientierte sowie selbständige Arbeitsweise bringst du auch mit Du hast ausgezeichnete Kenntnisse im M365 Modern Workplace und denkst die Architektur End-to-End Workplace Security ist für dich selbstverständlich Ein breites Fachwissen im M365 Cloud Bereich sowie Erfahrung im MDM Bereich runden dein Profil ab Du hast hervorragende analytische Fähigkeiten, gehst strukturiert vor zur Identifizierung und Behebung von technischen Problemen Hervorragendes Deutsch und gute Englischkenntnisse sind ein Muss Find Jobs in Swi",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -8510,7 +8818,7 @@
         "email": null,
         "phone": null
       },
-      "description": "Ein stabiler IT-Betrieb ist die Basis. Doch damit ein Bereich sich weiterentwickelt, braucht es Führung, Orientierung und den Mut, Dinge neu zu denken. Bei Aveniq übernimmst du ein erfahrenes Team und gestaltest mit ihm den Wandel hin zu mehr DevOps und Automatisierung, ohne die Stabilität im Betrieb zu gefährden. Das erwartet dich: Als Führungsperson, Coach und Sparringpartner begleitest du rund zehn Mitarbeitende und externe Fachleute Monitoring &amp; Alerting, IT Service Management sowie BI &amp; Analytics laufen dank dir zuverlässig Klare Prozesse, Rollen und Stellvertretungen sorgen unter deiner Leitung für Strukturen, die tragen Den Weg zu DevOps, Automatisierung und modernen Plattformen gestaltest du gemeinsam mit deinem Team Ressourcen, Kapazitäten und Budget behältst du jederzeit im Griff Wenn es darauf ankommt, bist du zur Stelle: als erste Eskalationsstelle und bei Major Incidents, im engen Austausch mit Architektur, Fachteams und Kunden Das bringst du mit: Mehrere Jahre Führungserfahrung in der IT, idealerweise auch mit grösseren Teams Ein solider IT-Background, gerne mit FH-Abschluss Vertrautheit mit IT Operations, Service Management und ITIL; eine Zertifizierung ist ein Plus KI gehört für dich selbstverständlich zum Arbeitsalltag: Du verstehst, wie sie funktioniert, nutzt sie gezielt und gehst neue Entwicklungen mit Neugier an Erfolgreiche Erfahrung in der Weiterentwicklung von Teams und Betriebsorganisationen DevOps, Cloud-native und Kubernetes sind für dich keine Schlagworte Klare Kommunikation, ein souveräner Auftritt sowie sehr gute Deutsch- und Englischkenntnisse Find more English Speaking Jobs in Switzerland on Arbeitnow",
+      "description": "Ein stabiler IT-Betrieb ist die Basis. Doch damit ein Bereich sich weiterentwickelt, braucht es Führung, Orientierung und den Mut, Dinge neu zu denken. Bei Aveniq übernimmst du ein erfahrenes Team und gestaltest mit ihm den Wandel hin zu mehr DevOps und Automatisierung, ohne die Stabilität im Betrieb zu gefährden. Das erwartet dich: Als Führungsperson, Coach und Sparringpartner begleitest du rund zehn Mitarbeitende und externe Fachleute Monitoring &amp; Alerting, IT Service Management sowie BI &amp; Analytics laufen dank dir zuverlässig Klare Prozesse, Rollen und Stellvertretungen sorgen unter deiner Leitung für Strukturen, die tragen Den Weg zu DevOps, Automatisierung und modernen Plattformen gestaltest du gemeinsam mit deinem Team Ressourcen, Kapazitäten und Budget behältst du jederzeit im Griff Wenn es darauf ankommt, bist du zur Stelle: als erste Eskalationsstelle und bei Major Incidents, im engen Austausch mit Architektur, Fachteams und Kunden Das bringst du mit: Mehrere Jahre Führungserfahrung in der IT, idealerweise auch mit grösseren Teams Ein solider IT-Background, gerne mit FH-Abschluss Vertrautheit mit IT Operations, Service Management und ITIL; eine Zertifizierung ist ein Plus KI gehört für dich selbstverständlich zum Arbeitsalltag: Du verstehst, wie sie funktioniert, nutzt sie gezielt und gehst neue Entwicklungen mit Neugier an Erfolgreiche Erfahrung in der Weiterentwicklung von Teams und Betriebsorganisationen DevOps, Cloud-native und Kubernetes sind für dich keine Schlagworte Klare Kommunikation, ein souveräner Auftritt sowie sehr gute Deutsch- und Englischkenntnisse Find Jobs in Switzerland on Arbeitnow",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -8909,7 +9217,7 @@
         "email": null,
         "phone": null
       },
-      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Rendering/ Graphics Engineer to help implement and maintain pipelines. You will ensure that the code is optimized to the highest level, this role is to support and develop the exciting visuals for our games. Requirements Taking responsibility for graphics development on the project. Developing, documenting, testing and maintaining graphical and engine features in collaboration with the other members of the team. Dedicatedly and methodically improving the quality and the efficiency of the relevant tools, processes and runtime functionality. Troubleshooting of all graphics related issues. The research and application of relevant new technologies. Responsibilities Take ownership of the design and development of key game systems. Rapidly gain in-depth knowledge of new technology and development practices. Develop best practices and effectively communicate these to other team members and disciplines. Effectively profile and optimise game systems. Skills A real passion for graphics development. We would love to see stellar C++ skills and an exposure to a wide range of graphical techniques and effects. Current generation console experience would be our first choice but experience of working with any modern graphics API is also hugely interesting to us. Experience with Unreal 4/ 5. Vulkan programming experience is a bonus. Experience and a deep understanding of high level shader languages. Proficiency in maths/3D geometry. First class management, communication and scheduling skills. Find Jobs in Netherlands on Arbeitnow",
+      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Rendering/ Graphics Engineer to help implement and maintain pipelines. You will ensure that the code is optimized to the highest level, this role is to support and develop the exciting visuals for our games. Requirements Taking responsibility for graphics development on the project. Developing, documenting, testing and maintaining graphical and engine features in collaboration with the other members of the team. Dedicatedly and methodically improving the quality and the efficiency of the relevant tools, processes and runtime functionality. Troubleshooting of all graphics related issues. The research and application of relevant new technologies. Responsibilities Take ownership of the design and development of key game systems. Rapidly gain in-depth knowledge of new technology and development practices. Develop best practices and effectively communicate these to other team members and disciplines. Effectively profile and optimise game systems. Skills A real passion for graphics development. We would love to see stellar C++ skills and an exposure to a wide range of graphical techniques and effects. Current generation console experience would be our first choice but experience of working with any modern graphics API is also hugely interesting to us. Experience with Unreal 4/ 5. Vulkan programming experience is a bonus. Experience and a deep understanding of high level shader languages. Proficiency in maths/3D geometry. First class management, communication and scheduling skills. Find more English Speaking Jobs in Netherlands on Arbeitnow",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -8972,7 +9280,7 @@
         "email": null,
         "phone": null
       },
-      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Boss Designer with a specialization in boss encounters. This role focuses on creating memorable, multi-phase boss battles that challenge and excite players while showcasing unique gameplay mechanics. You’ll work closely with other disciplines to design bosses that serve as memorable highlights in the player’s journey. Requirements Proven experience designing multi-phase boss encounters in a AAA console game. Strong understanding of boss fight design, including pacing, difficulty tuning, and player feedback systems. Proficiency in Unreal Engine 5, including Blueprint scripting and AI implementation. Experience collaborating across disciplines to create visually and mechanically cohesive encounters. Excellent problem-solving and communication skills. A passion for creating iconic and challenging gameplay moments. Responsibilities Design and implement unique boss encounters with multi-phase mechanics, using Unreal Engine 5. Define attack patterns, abilities, and AI behaviours to create challenging and memorable fights. Collaborate with animators, level designers, and technical designers to bring bosses to life with dynamic animations, visual effects, and audio cues. Prototype and iterate on boss encounters to refine gameplay flow, balance, and spectacle. Ensure bosses are seamlessly integrated into the game’s world and narrative. Document all boss designs, including mechanics, scripting, and testing methodologies. Playtest and refine encounters based on feedback to ensure they meet quality benchmarks. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Boss Designer with a specialization in boss encounters. This role focuses on creating memorable, multi-phase boss battles that challenge and excite players while showcasing unique gameplay mechanics. You’ll work closely with other disciplines to design bosses that serve as memorable highlights in the player’s journey. Requirements Proven experience designing multi-phase boss encounters in a AAA console game. Strong understanding of boss fight design, including pacing, difficulty tuning, and player feedback systems. Proficiency in Unreal Engine 5, including Blueprint scripting and AI implementation. Experience collaborating across disciplines to create visually and mechanically cohesive encounters. Excellent problem-solving and communication skills. A passion for creating iconic and challenging gameplay moments. Responsibilities Design and implement unique boss encounters with multi-phase mechanics, using Unreal Engine 5. Define attack patterns, abilities, and AI behaviours to create challenging and memorable fights. Collaborate with animators, level designers, and technical designers to bring bosses to life with dynamic animations, visual effects, and audio cues. Prototype and iterate on boss encounters to refine gameplay flow, balance, and spectacle. Ensure bosses are seamlessly integrated into the game’s world and narrative. Document all boss designs, including mechanics, scripting, and testing methodologies. Playtest and refine encounters based on feedback to ensure they meet quality benchmarks. Find Jobs in Netherlands on Arbeitnow",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -9014,7 +9322,7 @@
         "email": null,
         "phone": null
       },
-      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior A.I. Programmer, to help us generate the best open world experiences in our games and push the limits of Artificial intelligence in areas such as pathfinding, combat, and decision-making. Requirements A high level of proficiency with C++/ C#. High level experience with Unreal &amp; Unity3D. Excellent math. Proven problem-solving ability. Broad familiarity with AI in game development is required. You would also have experience of developing modern character AI systems. Experience of pathfinding, steering, and motion planning. State machines and behaviour trees. Implementing cooperation and group behaviours Experience of working within a team. A real passion for games programming. Responsibilities Work with existing engine code base to develop and improve AI. Develop AI / game code as well as tools and extend it for high profile projects. Specify and contribute to testing procedures. Integrate creative and technical design processes while ensuring that high production values are never compromised. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+      "description": "This is a fully remote ongoing freelance only position.&nbsp;&nbsp;You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior A.I. Programmer, to help us generate the best open world experiences in our games and push the limits of Artificial intelligence in areas such as pathfinding, combat, and decision-making. Requirements A high level of proficiency with C++/ C#. High level experience with Unreal &amp; Unity3D. Excellent math. Proven problem-solving ability. Broad familiarity with AI in game development is required. You would also have experience of developing modern character AI systems. Experience of pathfinding, steering, and motion planning. State machines and behaviour trees. Implementing cooperation and group behaviours Experience of working within a team. A real passion for games programming. Responsibilities Work with existing engine code base to develop and improve AI. Develop AI / game code as well as tools and extend it for high profile projects. Specify and contribute to testing procedures. Integrate creative and technical design processes while ensuring that high production values are never compromised. Find Jobs in Netherlands on Arbeitnow",
       "firstSeenAt": "2026-11-26T01:55:21.122Z"
     },
     {
@@ -16765,436 +17073,6 @@
       },
       "description": "About E-FARM We top up your Erasmus+ grant with €1,000/month! About E-FARM E-FARM, based in Hamburg, Germany, is transforming how farmers across Europe buy and sell machines. With over €150M in transactions and backing from CLAAS and top European VCs, we’re a fast-growing, tech-driven startup. Your challenge Your Mission – Marketing Focus As a Content & Social Media Marketing Intern , you will play a hands-on role in shaping E-FARM’s digital presence and brand voice: Create engaging content for social media and digital channels, including posts, visuals, short videos, and campaign assets Manage and support day-to-day social media activities across platforms (e.g. LinkedIn, Instagram, Facebook) Develop creative concepts and storytelling ideas aligned with our brand and marketing goals Support content planning and execution for campaigns, launches, and employer branding initiatives Experiment with formats, styles, and messaging to increase reach and engagement Use modern content and AI tools to speed up creation and enhance creativity Your profile Your Profile Enrolled at a non-German Erasmus+ university (ideally near graduation) Available for at least 6 months in Hamburg Language Skills: Solid English skills required Any additional European language (e.g. German, French, Spanish, Italian, Czech, Romanian etc.) is a big plus – we sell across Europe, so the more languages you speak, the more impact you can make! Strong interest in content creation, social media, and digital storytelling Creative mindset with a good eye for tone, visuals, and consistency Proactive and motivated, thriving in a fast-paced startup Our proposition What We Offer €1,000 monthly top-up on top of your Erasmus+ grant Real ownership of content and social media initiatives — not just execution support Mentorship from experienced digital marketers Modern office in central Hamburg with a collaborative international team Team events, startup culture & career springboard – many interns join E-FARM ful",
       "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-senior-ai-solutions-entwicklerin-munich-385724",
-      "title": "Senior AI Solutions Entwickler:in",
-      "company": "Mayflower GmbH",
-      "location": "Munich",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/mayflower-gmbh/senior-ai-solutions-entwicklerin-munich-385724",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Wer wir sind Die Mayflower GmbH ist ein mittelständischer Dienstleister für Individualsoftware mit Schwerpunkt “Generative AI”. Seit 1998 in Gründerhand, entwickeln wir Software und beraten Kunden aus allen Branchen. Wir setzen auf Cloud Native, modernisieren Software und unterstützen unsere Kunden mit maßgeschneiderten AI-Lösungen. Bei Mayflower arbeiten wir in agilen Teams und legen großen Wert darauf, Wissen zu teilen und gemeinsam Erfolge zu feiern. Wir übernehmen Verantwortung für das Produkt, pflegen eine professionelle Zusammenarbeit mit unseren Kunden und legen Wert auf eine offene Feedback- und Weiterbildungskultur. Dazu bieten wir spannende Use Cases, großen Gestaltungsspielraum und die Möglichkeit, echten Einfluss beim Kunden zu nehmen. Wir bauen unseren Businessbereich „Generative AI\" aus und suchen dich, um gemeinsam agentische AI-Lösungen zu entwickeln, die für unsere Kunden echte Probleme lösen. Neugierig geworden? Dann lies einfach weiter! Was dich erwartet Anspruchsvolle Projekte mit LLMs, Agentic RAG und AI-Agent-Frameworks wie LangGraph oder OpenAI Agent SDK. Du baust Evaluation-Pipelines und Observability (Logging/Tracing mit LangSmith, Langfuse o. Ä.) auf und arbeitest mit modernem MLOps-Stack und Vector Databases. Du berätst Kunden als vertrauenswürdiger Partner auf Augenhöhe und führst sie strategisch bei der Umsetzung innovativer AI-Vorhaben. In Workshops erarbeitest du gemeinsam mit unseren Kunden die AI-Architektur für die jeweiligen Use Cases, ermittelst die Business-Anforderungen und stellst eine Roadmap auf, die einen schnellen Start mit kurzfristigen Ergebnissen ermöglicht. Mit Begeisterung nutzt du moderne agentische Entwicklungsmethoden, entwickelst mit deinem Team Best Practices und förderst kontinuierlich den Wissenstransfer zu moderne AI-Architekturen, Model Optimization und Enterprise-AI-Integration. Du verfolgst relevante Trends und bringst Inhalte für Whitepaper, Landing Pages, Workshop-Konzepte und AI-Produkte ein, um Kunden fü",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-it-service-management-berater-bad-homburg-192453",
-      "title": "IT Service Management Berater (m/w/d)",
-      "company": "SERVIEW GmbH",
-      "location": "Bad Homburg",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/serview-gmbh/it-service-management-berater-bad-homburg-192453",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Gemeinsam machen wir den Unterschied Sind Sie bereit, Ihr ITSM-Wissen nicht nur anzuwenden, sondern auch weiterzugeben? Wir suchen erfahrene Berater:innen, die Unternehmen dabei unterstützen, ihre IT-Service-Prozesse nachhaltig zu verbessern – und dabei auch Freude daran haben, ihr Wissen in Form von gelegentlichen Trainings weiterzugeben. In spannenden Kundenprojekten bringen Sie Ihr Know-how gezielt ein, treiben Veränderungen voran und gestalten IT-Organisationen zukunftsfähig. Gleichzeitig geben Sie in ausgewählten Trainings Ihr Wissen weiter – als Impulsgeber:in für mehr Kompetenz und Qualität im IT-Service-Management. Das erwartet Sie bei uns Unbefristete Festanstellung und maßgeschneiderte Entwicklungsmöglichkeiten Attraktive Vergütung , Fixgehalt ohne variablen Anteil Ein umfangreiches Mobilitätskonzept (wie z.B. Dienstwagen oder BahnCard 100) 30 Tage Urlaubsanspruch - zusätzlich frei an Heiligabend und Silvester Zugang zum SIMBA-Benefit-Portal (unser Benefit Portal mit verschiedenen Vorteilen wie JobRad, Auto-Abo, Elektronik-Leasing, Mobilfunk, Festnetz, Gesundheit/Vorsorge, Rabatte u.v.m.) betriebliche Altersvorsorge mit 20% Arbeitgeberzuschuss Freuen Sie sich auf Team-Events , die Spaß und Teamgeist fördern. Zusammen schaffen wir unvergessliche Momente, die uns verbinden und inspirieren Eine langfristige Perspektive: Mit attraktiven Karriereoptionen und Chancen auf Weiterbildung in zusätzlichen Themenfeldern finden Sie in uns einen verlässlichen Partner für Ihre Entwicklung. Haben Sie spannende Ideen oder wollen Ihr eigenes Projekt vorantreiben? Dann unterstützen wir Sie sehr gern! Ein inspirierendes Umfeld mit außergewöhnlichen Menschen und einer offenen Feedbackkultur. Home-Office sowie deutschlandweite Reisetätigkeit zum Kunden Wir legen Wert auf Ihre Zufriedenheit und gestalten gemeinsam mit Ihnen Lösungen, die perfekt zu Ihren individuellen Bedürfnissen passen. Dafür stehen Sie jeden Morgen auf Strategische Beratung: Unterstützung unserer Kunden bei d",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-senior-php-developer-typo3-berlin-464387",
-      "title": "(Senior) PHP Developer TYPO3 (w/m/d)",
-      "company": "brandung GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/brandung-gmbh/senior-php-developer-typo3-berlin-464387",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Dein Spielfeld Du entwickelst TYPO3 Features sowie Templates und Extensions auf Basis von Extbase und Fluid nach agilen Paradigmen (Scrum) Gemeinsam mit deinem Team konzipierst du Aufgaben auf Storybasis und arbeitest auf Basis klarer und nachvollziehbarer Akzeptanzkriterien Mit einem strukturierten Gitflow-Workflow, Merge Requests, Code Reviews und automatisierten Deployment-Pipelines sorgst du für transparente und qualitativ hochwertige Entwicklungsprozesse Tools wie GitLab CI, DDEV oder Docker (Rancher) unterstützen dich im täglichen Entwicklungsalltag – PHPStorm ist deine IDE des Vertrauens Du entwickelst eigene APIs oder arbeitest mit bestehenden Schnittstellen Je nach Projekt gehören auch hohe Standards wie Barrierefreiheit (BITV 2.0), Responsive Design und Security-Optimierungen zu deinem Anspruch – etwa bei Plattformen mit besonderen Anforderungen an Datenschutz und Zugänglichkeit Deine Skills Du verfügst über mehrjährige Berufserfahrung als TYPO3-Entwickler:in Du kennst die Möglichkeiten aktueller TYPO3-Versionen (mindestens ab Version 11) und nutzt sie sicher Du bindest mit Bedacht und klarer Qualitätskontrolle KI in deine tägliche Arbeit ein Du überzeugst mit fundierten MySQL- oder MariaDB-Kenntnissen Du bringst Grundkenntnisse im Umgang mit der Shell und in der Apache-Webserver-Konfiguration mit Du legst großen Wert auf sauberen, qualitativ hochwertigen Code und die Einhaltung entsprechender Prozesse Du verfügst über sehr gute Deutschkenntnisse (mindestens Sprachniveau C1) Solltest du dich in dieser Beschreibung wiederfinden, aber nicht alle Punkte vollständig erfüllen, zögere nicht und sende uns deine Unterlagen. Wir lernen dich gerne in einem ersten Gespräch kennen und schauen gemeinsam, ob es passt. Wir freuen uns auf dich! Deine Benefits Mac oder Windows? Du entscheidest über deine Hardware und womit Du lieber arbeiten möchtest. Zudem gibt es bei uns höhenverstellbare Schreibtische und mobile Arbeitsflächen, die Du Dir nach deinen Vorstellungen zurec",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-sap-application-lifecycle-management-alm-consultant-berlin-65167",
-      "title": "SAP Application Lifecycle Management (ALM-) Consultant",
-      "company": "Cross ALM",
-      "location": "Berlin",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/cross-alm/sap-application-lifecycle-management-alm-consultant-berlin-65167",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Ihre Aufgaben Beratung von Kunden bei der Definition und Implementierung von Application Lifecycle Management (ALM) Prozessen und Strategien, unter Verwendung von Jira, SAP Solution Manager und Cloud ALM Analyse der bestehenden ALM-Landschaft und Identifizierung von Optimierungspotenzialen, sowohl im Jira-, SAP Solution Manager- als auch im Cloud ALM-Umfeld Unterstützung bei der Auswahl und Einführung geeigneter ALM-Tools und -Technologien, insbesondere Jira, SAP Solution Manager und Cloud ALM Durchführung von Schulungen und Workshops zur Vermittlung von ALM-Kenntnissen an Kunden und Teammitglieder, unter Berücksichtigung der Jira-, SAP Solution Manager- und Cloud ALM-Funktionalitäten Enge Zusammenarbeit mit Kunden, um ihre individuellen Anforderungen zu verstehen und maßgeschneiderte Lösungen anzubieten, basierend auf Jira, SAP Solution Manager und Cloud ALM Kontinuierliche Weiterentwicklung des eigenen Fachwissens im Bereich ALM, insbesondere im Hinblick auf Jira, SAP Solution Manager und Cloud ALM Ihr Profil Fließende Deutsch- und Englischkenntnisse Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung Mehrjährige Berufserfahrung als SAP Solution Manager Berater oder in verwandten Bereichen des Application Lifecycle Managements Fundierte Kenntnisse der ALM-Methoden, -Prozesse und -Tools, insbesondere Jira, SAP Solution Manager und Cloud ALM Erfahrung in der Implementierung und Konfiguration des SAP Solution Managers, sowie Jira und Cloud ALM Hohe Kundenorientierung und Beratungskompetenz Wir suchen einen lösungsorientierten Teamplayer mit innovativem Mindset und Liebe zum Detail, der mit uns den Status Quo hinterfragt, um gemeinsam mit uns zu wachsen Warum wir? Spannende Projekte in einem dynamischen Umfeld namhafter Kunden, bei denen Jira, SAP Solution Manager und Cloud ALM kombiniert eingesetzt werden Möglichkeit, die eigene Expertise im Bereich ALM weiter auszubauen und innovative Lösungen zu entwickeln, basierend auf",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-senior-softwareentwickler-mit-fokus-ai-stuttgart-306828",
-      "title": "Senior Softwareentwickler mit Fokus AI (m/w/d)",
-      "company": "Theobald Software GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/theobald-software-gmbh/senior-softwareentwickler-mit-fokus-ai-stuttgart-306828",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Wer wir sind Vor über 20 Jahren gegründet, ist die Theobald Software GmbH heute führender Anbieter in der Konzeption und Entwicklung von SAP-Schnittstellen und betreut derzeit mehr als 1.700 Kunden weltweit. Wir arbeiten mit einem Team aus rund 60 Mitarbeiter:innen an zwei Standorten weltweit an der Integration von SAP in Drittsysteme – mit Begeisterung und Ideenreichtum. An unserem Stuttgarter Standort vereinen sich Entwicklergeist und unkonventionelles Denken. Hier tüfteln unsere Entwickler und Experten an einfachen Lösungen für die Integrationsprobleme unserer Kunden. In einem internationalen Team mit einer Mischung aus jungen und erfahrenen Entwicklern suchen wir dich als Verstärkung. Entdecke deine Einstiegsmöglichkeit Du möchtest etwas bewegen, an Produkten entwickeln, die direkt beim Endkunden im Einsatz sind und dort ihren Mehrwert im täglichen Arbeitsumfeld liefern. Deine Ideen in eine SaaS-Lösung oder in ein On-Premises-Produkt einbringen und die Zukunft mitgestalten: Dann werde Senior Software-Entwickler (m/w/d) bei der Theobald Software GmbH. Deine Aufgaben - Verantwortung fängt bei dir an Du bist Teil des Entwicklungsteams, das für die SaaS-Lösung sowie unsere On-Premises-Produkte verantwortlich ist und bist aktiv in die Weiterentwicklung eingebunden. Dabei verwendest du aktuelle Technologien auf einer komponentenbasierenden Architektur. Du stellst durch ausreichend automatisierte Tests sicher, dass dein Code, der maßgeblich in C# geschrieben wird, korrekt funktioniert. Du unterstützt bei der Erstellung der Dokumentation und bei den Anforderungen zur Qualitätssicherung der Software. Du beschäftigst dich leidenschaftlich gerne mit AI-Themen, bildest dich hierzu kontinuierlich weiter und trägst dieses Wissen in das Team hinein. Du übernimmst fachliche Verantwortung für Teilbereiche und identifizierst technische Verbesserungsmöglichkeiten und treibst Innovationen durch dein Wissen voran. Du arbeitest dich eigenständig in neue Themengebiete ein. Durch deine",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-initiativbewerbung-magdeburg-7683",
-      "title": "Initiativbewerbung",
-      "company": "Join GmbH",
-      "location": "Magdeburg",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/join-gmbh/initiativbewerbung-magdeburg-7683",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Was wir bieten Die Join GmbH bietet Dir anspruchsvolle und abwechslungsreiche Aufgaben in einem innovativen Unternehmen. Du arbeitest in einem aufgeschlossenen, agilen Team und in Zusammenarbeit mit international agierenden Partnern. Zu unseren Kunden zählen zahlreiche international renommierte Konzerne sowie große deutsche und europäische Unternehmen. Dadurch profitierst Du von kurzen Wegen und schnellen Entscheidungen kleiner Unternehmen und anspruchsvollen Projekten und Aufgaben im Großkundenbereich. Wir bieten ein kreatives Arbeitsklima, offene Kommunikationsstrukturen und partnerschaftliches Miteinander. Find more English Speaking Jobs in Germany on Arbeitnow",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-site-reliability-engineer-ai-assisted-platform-opcp-koln-477122",
-      "title": "Site Reliability Engineer  - AI Assisted Platform (OPCP) (m/f/d)",
-      "company": "gridscale GmbH",
-      "location": "Köln, Nordrhein-Westfalen, Deutschland",
-      "remote": false,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-ai-assisted-platform-opcp-koln-477122",
-      "postedAt": "2026-11-25T06:31:11.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "At our company, it's all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH. As a leading tech company, we've been working for over two decades to reduce our environmental footprint - with innovative solutions and an open cloud designed to be sustainable from the ground up: #SustainableByDesign. Within our #OneTeam, you'll shape the automation-first framework that lets every product team ship securely and at speed on top of OPCP, our On-Prem Cloud Platform. Our Tech Stack&nbsp;🚀 · Kubernetes · GitOps · FluxCD / ArgoCD · Ansible · Terraform · OpenStack · Linux · CI/CD · Python · Bash · Go · Observability (Metrics, Logs, Traces) · LLMs · Agentic Coding Tooling Your Role💻 As a Site Reliability Engineer, you'll work at the intersection of platform engineering, AI-driven tooling and security by design. Together with your team, you'll build the framework to package and deploy software solutions on top of OPCP - turning vague product ideas into repeatable, observable and self-healing services. You'll work on the conception, automation and operation of the platform, drive continuous improvements and help new teams onboard with the framework and OPCP. Working hand in hand with developers, security specialists and AI researchers, you keep an overview in ambiguous situations, analyze systems and make well-founded decisions based on that analysis. AI-assisted engineering is part of our daily toolchain because it materially improves how we build and operate the platform – from spec-driven development with LLM assistance and knowledge-base-driven retrieval for incident response and design to agentic coding workflows and faster runbook authoring and review. We are investing in this direction as a structural part of our engineering practice and are looking for teammates who already work this way – not because it is trendy, but because they have seen it compound their own output. Your Tasks Design, build and maintain the Cloud Store packaging f",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-initiativbewerbung-berlin-422658",
-      "title": "Initiativbewerbung (m/w/d)",
-      "company": "Nitrado (marbis GmbH)",
-      "location": "Berlin",
-      "remote": true,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-422658",
-      "postedAt": "2026-11-25T06:31:10.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Einleitung Es ist momentan keine für dich passende Stelle ausgeschrieben? Wir sind immer auf der Suche nach motivierten und kreativen Köpfen, die Ihren Beruf mit Leidenschaft machen. Das trifft auf dich zu? Dann lass uns gerne eine Initiativbewerbung zukommen! ​​​​ Deine Aufgaben Dich erwarten spannende und abwechslungsreiche Aufgaben, bei denen Verantwortung und Teamgeist wichtig sind. Du unterstützt dein Team in den Bereichen Softwareentwicklung, Business Intelligence, Marketing, Controlling oder im Customer Support. Du übernimmst die eigenverantwortliche Bearbeitung verschiedener Themenstellungen. Du arbeitest aktiv in unterschiedlichen Projekten mit. Dein Profil Du hast ein abgeschlossenes Hochschulstudium in einem relevanten Fachbereich oder eine vergleichbare Berufsausbildung. Du findest dich in einem dieser Bereiche wieder: Grafikdesign/Frontend, Backend, Business Intelligence, Marketing, Controlling oder Customer Support und hast entsprechend fundierte Fachkenntnisse. Du bist offen für neue Technologien die uns weiterbringen. Du bist selber Gamer:in oder weißt was Gamer:innen wollen und fühlst dich in diesem Umfeld wohl. Du besitzt Eigeninitiative und arbeitest ergebnisorientiert. Du bist kommunikativ, ein(e) Teamplayer(in) und hast Spaß an dem was du tust. Du verfügst über gute Kommunikationsfähigkeiten in Deutsch und Englisch. Deine Benefits Gaming im Herzen: Wir bieten kostenlose Nitrado Game Server für Gamer und eine einladende Community für alle, die sich wohlfühlen möchten, selbst wenn du kein/e Gamer:in bist. Entdecke, wie Nitrado mehr ist als nur Gaming - eine offene Community für Technologie und Kreativität. Vertrauensarbeitszeit: Passe deine Arbeitszeiten an deine persönlichen Bedürfnisse an, um eine bessere Work-Life-Balance zu erreichen. Remote Work: Unsere agilen Teams arbeiten Hand in Hand von ihrem bevorzugten Standort aus zusammen, sei es in unseren modernen Büros in Karlsruhe oder Berlin oder vollständig remote. Work from Abroad: Erweitere d",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-apple-it-systemadministrator-32h-berlin-177908",
-      "title": "Apple IT Systemadministrator (m/w/d) - 32h",
-      "company": "Storymachine GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "type": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/apple-it-systemadministrator-32h-berlin-177908",
-      "postedAt": "2026-11-25T06:31:10.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Allgemeine Infos Standort: Berlin Arbeitszeit: Teilzeit - 32h Start: ab sofort StoryMachine ist eine 2017 gegründete Agentur mit dem Schwerpunkt auf strategischem Storytelling für Brands, Persönlichkeiten und politische Institutionen. Die Basis unseres integrativen Storytellings ist journalistisch und komplett datengetrieben. Wir betrachten Social Channels nicht isoliert, sondern heben ihre Stärken und Besonderheiten hervor und bringen sie zum Vorteil unserer Kund*innen ein. Unser Büro befindet sich in einem alten Varieté-Theater mitten im Herzen von Berlin. Dort triffst du auf einzigartige Charakterköpfe als Kolleg*innen und bei regelmäßigen Networking-Events auf bekannte Persönlichkeiten aus der Politik-, Wirtschafts- und Medienwelt. Über die Stelle Die Administration der technischen Infrastruktur, die operative Unterstützung und den technischen Problemen Deiner Kolleg*innen zaubern Dir ein Lächeln ins Gesicht? Die Inventarisierung und Verwaltung von Hard- und Softwarelizenzen sind für Dich ein Kinderspiel? Dann bist Du bei uns genau richtig! Als Apple IT Administrator (Jamf Pro / M365) (m/w/d) – 32 h bist Du die erste Anlaufstelle für technische Probleme und Anfragen aus dem Team im First-Level-Support und unterstützt das Operations-Team bei der Optimierung und Anpassung interner Prozesse. Deine Aufgaben ➡️ Verwaltung von Apple Devices über Jamf (MDM), u.a. Anpassen von Richtlinien, Verteilen von Software ➡️ Inventarisierung und Verwaltung des Hardwarebestands per Assetmanagement ➡️ Administration, Identitäts- und Zugriffsmanagement über M365 und Azure AD (Entra-) und Nutzerverwaltung div. anderen Agenturtools wie Notion, Adobe, etc. ➡️ 1st-Level-Ticket-Support für technische Anfragen aus dem Team ➡️ Unterstützung bei der Erfassung von IT-Anforderungen, sowie die von möglichen Lösungen und Prozessen z.B. in Notion ➡️ Technisches On- und Offboarding inkl. der Aktivierung bzw. Deaktivierung sämtlicher Zugänge, Lizenz- und Vertragsverwaltung für alle Devices der Kol",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "arbeitnow-pflichtpraktikum-marketing-in-vollzeit-grafelfing-307529",
-      "title": "Pflichtpraktikum Marketing (m/w/d) in Vollzeit",
-      "company": "dean&david Franchise GmbH",
-      "location": "Gräfelfing",
-      "remote": false,
-      "type": "Internship",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/deandavid-franchise-gmbh/pflichtpraktikum-marketing-in-vollzeit-grafelfing-307529",
-      "postedAt": "2026-11-25T06:31:10.000Z",
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Mach den Unterschied – mit uns! Werde Teil einer Marke, die für mehr steht als nur gutes Essen. In deinem Pflichtpraktikum im Marketing bei dean&david kombinierst du kreatives Denken mit strategischem Know-how, um gemeinsam mit uns ein starkes Markenbild zu formen, das Nachhaltigkeit, Qualität und Lifestyle vereint. Deine Aufgaben Du unterstützt das Marketingteam bei der strategischen Weiterentwicklung und Positionierung der Marke. Du wirkst bei der Konzeption, Planung und Umsetzung integrierter Marketingkampagnen mit – über verschiedene Kanäle hinweg (u. a. Digital Marketing, Social Media, Website, POS und PR). Du unterstützt im Anfrage- und Abstimmungsprozess für lokale Marketingmaßnahmen und begleitest die Planung sowie Umsetzung von POS-Marketing-Aktivitäten. Du begleitest Markt- und Wettbewerbsanalysen und leitest daraus Handlungsempfehlungen ab. Du unterstützt beim Aufbau, der Bewertung und der Betreuung von Kooperations-, Medien- und Markenpartnerschaften. Du arbeitest eng mit internen Teams (z. B. Grafik, Social Media, Category Management und Produktentwicklung) und externen Agenturen und Partnern zusammen. Du erhältst eigene Aufgabenbereiche und übernimmst Verantwortung in Marketingprojekten. Dein Profil Du studierst Marketing, Medien- und Kommunikationswissenschaften, Betriebswirtschaft, Design oder einen vergleichbaren Studiengang. Du begeisterst dich für Marken, Food-Trends und Lifestyle-Themen und verfolgst aktiv, was aktuell im Food- und Restaurantbereich angesagt ist. Du arbeitest strukturiert und proaktiv, bringst Eigeninitiative mit und denkst gerne in neuen Ideen und Lösungen. Du überzeugst durch Kommunikationsstärke, Organisationstalent und arbeitest gerne im Team. Erste praktische Erfahrungen im Bereich Marketing, Kommunikation, Projektmanagement oder Social Media (z. B. durch Praktika oder Werkstudententätigkeiten) sind von Vorteil. Du verfügst über sehr gute Deutschkenntnisse sowie gute Englischkenntnisse. Unser Angebot Du erhältst eine angemes",
-      "firstSeenAt": "2026-11-25T07:52:07.497Z"
-    },
-    {
-      "id": "gb-linkedin-c7a1ef57d30e98dfa628",
-      "title": "3D Animator (Mid/Senior)",
-      "company": "Evgeny Putilin / RPG project",
-      "location": "Remote",
-      "remote": true,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/eputilin_were-looking-for-a-3d-animator-midsenior-activity-7531047275805011968-2HwN",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "3D Animator (Mid/Senior) for an RPG project. Starts Dec 1, 3 months, Maya + Unity, cinematic cutscenes. Posted on LinkedIn Nov 24, 2026. Apply via the LinkedIn post.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-cd9c0333ad3b79abc0df",
-      "title": "UGC Video Creators",
-      "company": "Avyaan Enterprises",
-      "location": "India",
-      "remote": true,
-      "type": "Freelance",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/avyaanenterprises_ugccreator-ugcindia-contentcreators-activity-7531041675222200320-Tv4O",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "UGC Video Creators for Meta + Amazon ads. India creators. Apply via DM/comment on the LinkedIn post with portfolio + pricing. Posted on LinkedIn Nov 24, 2026.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-3ed164f4ee57de8c7a5f",
-      "title": "UGC Creators (paid)",
-      "company": "Rebecca Nolan",
-      "location": "Remote",
-      "remote": true,
-      "type": "Freelance",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/rebeccannolan_ugc-ugccreator-brandcollaborations-activity-7531001222602973184-wBS8",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Paid UGC Creators — beauty / lifestyle / fashion / food / travel / wellness / tech. Portfolio in comments on the LinkedIn post. Posted on LinkedIn Nov 24, 2026.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-1fd4bdeeaa95ab2804f3",
-      "title": "Freelance Graphic Designer",
-      "company": "Bellavita (via Himanshu Negi)",
-      "location": "Remote",
-      "remote": true,
-      "type": "Freelance",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/himanshu-negi-81bb28190_graphicdesigner-hiring-freelance-activity-7530573635623813121-aB6S",
-      "postedAt": null,
-      "contact": {
-        "email": "himanshu.negi@oneguardian.in",
-        "phone": null
-      },
-      "description": "Freelance Graphic Designer, beauty/skincare, Meta ad creatives, 2-3 yrs. Posted on LinkedIn Nov 23, 2026. Email published in the post: himanshu.negi@oneguardian.in",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-10a5971316d55b0f6d30",
-      "title": "AI Video Director / Editor / Film-maker (multiple hires)",
-      "company": "Opus Recruitment Solutions",
-      "location": "Remote (worldwide)",
-      "remote": true,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/jobs/view/multiple-hires%21-fully-remote-worldwide-ai-video-director-editor-film-maker-cinematic-mini-series-ai-driven-story-telling-fast-growing-%2B-profitable-ai-scaleup-at-opus-recruitment-solutions-4488388125",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "AI Video Director / Editor / Film-maker, multiple hires. Fully remote worldwide, cinematic mini-series, AI scaleup. Posted on LinkedIn Nov 21, 2026 (reposted in the last 2 days). Apply via the LinkedIn job page.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-47f32319e2842f43e652",
-      "title": "Senior Graphic Designer",
-      "company": "American Cancer Society (via Mike Hanley)",
-      "location": "Remote",
-      "remote": true,
-      "type": "Full-time",
-      "salaryMin": 65000,
-      "salaryMax": 70000,
-      "currency": "USD",
-      "salaryPeriod": "yr",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/mike-hanley_art-directors-designers-im-hiring-activity-7529895114920337408-fPI1",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Senior Graphic Designer, 100% remote, $65K-$70K, 5-7 yrs. Posted on LinkedIn Nov 21, 2026. Apply via the LinkedIn post.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-e525f9e029693e077cca",
-      "title": "AI Video Generator / AI Video Creator",
-      "company": "Faryal Saeed",
-      "location": "Remote",
-      "remote": true,
-      "type": "Freelance",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/faryalemailmarketingspecalist_hiring-aivideocreator-aigeneratedvideos-activity-7530662023609892864-C76Z",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "AI Video Generator / AI Video Creator. Posted on LinkedIn Nov 23, 2026. Apply via the LinkedIn post.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-48d96592a1bdb7236b07",
-      "title": "Video Editor",
-      "company": "Aurella Belle",
-      "location": "Vrindavan, UP",
-      "remote": false,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/anjali-watts-148b411aa_hiring-videoeditor-aurellabelle-activity-7530960656771039232--E_k",
-      "postedAt": null,
-      "contact": {
-        "email": "info@aurellabelle.com",
-        "phone": null
-      },
-      "description": "Video Editor, on-site in Vrindavan, UP. Posted on LinkedIn Nov 24, 2026. Email published in the post: info@aurellabelle.com",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-b2d2a3aba18f33561fcb",
-      "title": "Content Writer",
-      "company": "AdMedia (via Aneri Thakkar)",
-      "location": "Remote, India",
-      "remote": true,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/posts/aneri-thakkar-177b57281_hiring-contentwriter-contentwriting-activity-7530844100883988481-LrTp",
-      "postedAt": null,
-      "contact": {
-        "email": "aneri.thakkar@admedia.com",
-        "phone": null
-      },
-      "description": "Content Writer, remote, India. Posted on LinkedIn Nov 24, 2026. Email published in the post: aneri.thakkar@admedia.com",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
-    },
-    {
-      "id": "gb-linkedin-a05758c48d51b63c19aa",
-      "title": "Animator",
-      "company": "Light & Wonder",
-      "location": "Las Vegas, NV",
-      "remote": false,
-      "type": "Full-time",
-      "salaryMin": null,
-      "salaryMax": null,
-      "currency": "USD",
-      "salaryPeriod": "mo",
-      "source": "linkedin",
-      "sourceUrl": "https://www.linkedin.com/jobs/view/animator-at-light-wonder-4478742512",
-      "postedAt": null,
-      "contact": {
-        "email": null,
-        "phone": null
-      },
-      "description": "Animator, full-time, on-site in Las Vegas, NV. Posted on LinkedIn Nov 24, 2026. Apply via the LinkedIn job page.",
-      "firstSeenAt": "2026-11-26T06:38:10.718Z",
-      "handpicked": false
     }
   ]
 }
