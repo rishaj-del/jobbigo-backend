@@ -3,6 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const jobsRouter = require('./routes/jobs');
 const { startLoop } = require('./collector');
+const path = require('path');
 
 const app = express();
 app.use(cors());
@@ -20,6 +21,10 @@ app.post('/api/alerts', (req, res) => {
   // TODO: persist to DB and hook into notifier.
   res.status(201).json({ ok: true, email, keywords, sources: sources || [] });
 });
+
+// Serve the JOBBIGO frontend (exported static site) at / — API routes above take precedence.
+app.use(express.static(path.join(__dirname, 'public')));
+app.get('/', (req, res) => res.sendFile(path.join(__dirname, 'public', 'index.html')));
 
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
