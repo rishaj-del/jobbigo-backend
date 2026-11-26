@@ -38,8 +38,11 @@
 //   data/google-boolean-state.json, so a backend restart never resets the
 //   rotation or double-spends the budget.
 //
-// FRESHNESS: every query carries dateRestrict=d3 (CSE) / tbs=qdr:d3
-// (SerpAPI), so results are at most 3 days old. The store prunes unpinned
+// FRESHNESS: every query carries a 24-HOUR filter (separate "last 24 hours"
+// filter on the Boolean search, added 2026-11-26 at the user's request):
+// dateRestrict=d1 (CSE) / tbs=qdr:d1 (SerpAPI) / freshness=pd (Brave), so
+// results are at most 24 hours old. Set GOOGLE_BOOLEAN_FRESHNESS=3d to go
+// back to the 3-day window (d3 / qdr:d3 / pw). The store prunes unpinned
 // jobs older than 3 days as well (see store.js).
 //
 // QUERY MATRIX: LinkedIn + Instagram x the AI-video/3D/motion roles, plus
@@ -55,7 +58,10 @@ const { normalize } = require('./_normalize');
 
 const STATE_PATH = path.join(__dirname, '..', 'data', 'google-boolean-state.json');
 const QUERIES_PER_RUN = Number(process.env.GOOGLE_BOOLEAN_QUERIES_PER_RUN || 4);
-const DATE_RESTRICT = 'd3'; // CSE: last 3 days only (Brave uses freshness=pw)
+const FRESHNESS = process.env.GOOGLE_BOOLEAN_FRESHNESS || '24h'; // '24h' or '3d'
+const DATE_RESTRICT = FRESHNESS === '3d' ? 'd3' : 'd1'; // CSE: last 24h by default
+const BRAVE_FRESHNESS = FRESHNESS === '3d' ? 'pw' : 'pd'; // Brave: past day by default
+const SERP_TBS = FRESHNESS === '3d' ? 'qdr:d3' : 'qdr:d1'; // SerpAPI: last 24h by default
 
 const PLATFORMS = [
   { source: 'linkedin', site: 'linkedin.com', label: 'LinkedIn' },
@@ -144,7 +150,7 @@ async function searchCSE(query) {
 async function searchSerpApi(query) {
   const url =
     `https://serpapi.com/search.json?engine=google&q=${encodeURIComponent(query)}` +
-    `&api_key=${encodeURIComponent(process.env.SERPAPI_KEY)}&num=10&tbs=qdr:d3`;
+    `&api_key=${encodeURIComponent(process.env.SERPAPI_KEY)}&num=10&tbs=${SERP_TBS}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`SerpAPI: ${res.status}`);
   const data = await res.json();
@@ -158,7 +164,7 @@ async function searchSerpApi(query) {
 async function searchBrave(query) {
   const url =
     `https://api.search.brave.com/res/v1/web/search?q=${encodeURIComponent(query)}` +
-    `&count=10&freshness=pw`;
+    `&count=10&freshness=${BRAVE_FRESHNESS}`;
   const res = await fetch(url, {
     headers: { Accept: 'application/json', 'X-Subscription-Token': process.env.BRAVE_API_KEY },
   });
