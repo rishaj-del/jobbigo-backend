@@ -95,8 +95,17 @@ function upsert(incoming) {
   // listings can never push a curated role out (2026-11-21: 4 of the 8
   // handpicked roles were trimmed within a day of the cap going 500 -> 800,
   // because their postedAt dates were the oldest in the store).
-  const sorted = [...byId.values()]
-    .sort((a, b) => new Date(effectiveDate(b)) - new Date(effectiveDate(a)));
+  // Feed order (2026-11-26, user: LinkedIn stays at the top of the feed,
+  // Instagram right after LinkedIn, then everything else):
+  // Handpicked first, then ALL LinkedIn leads, then ALL Instagram leads,
+  // then everything else newest first. Social leads keep their real post
+  // dates (postedAt), so without this rank they would sink below fresher
+  // job-board listings.
+  const rank = (j) =>
+    j.handpicked ? 0 : j.source === 'linkedin' ? 1 : j.source === 'instagram' ? 2 : 3;
+  const sorted = [...byId.values()].sort(
+    (a, b) => rank(a) - rank(b) || new Date(effectiveDate(b)) - new Date(effectiveDate(a)),
+  );
   const cutoff = Date.now() - MAX_AGE_MS;
   // Freshness is judged by firstSeenAt (when the job entered OUR feed), not by
   // postedAt: LinkedIn leads carry their real post date in postedAt, and a
