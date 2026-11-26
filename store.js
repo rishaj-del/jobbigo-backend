@@ -17,7 +17,7 @@ const path = require('path');
 const DATA_DIR = path.join(__dirname, 'data');
 const STORE_PATH = path.join(DATA_DIR, 'jobs.json');
 const SEED_PATH = path.join(DATA_DIR, 'handpicked-seed.json');
-const MAX_JOBS = 800; // raised 2026-11-20 so curated handpicked jobs are not trimmed out the same day
+const MAX_JOBS = 1200; // raised 2026-11-20 so curated handpicked jobs are not trimmed out the same day
 const MAX_AGE_MS = 3 * 24 * 60 * 60 * 1000; // live feed: max 3 days old
 
 function ensureDir() {
